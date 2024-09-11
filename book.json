@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "year": 1988,
+      "rating": 4.7,
+      "level": "beginner"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic",
+      "year": 1960,
+      "rating": 4.8,
+      "level": "beginner"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "rating": 4.9,
+      "level": "beginner"
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "year": 1925,
+      "rating": 4.6,
+      "level": "medium"
+    },
+    {
+      "id": 5,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1813,
+      "rating": 4.5,
+      "level": "hard"
+    },
+    {
+      "id": 6,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937,
+      "rating": 4.9,
+      "level": "beginner"
+    },
+    {
+      "id": 7,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Classic",
+      "year": 1951,
+      "rating": 4.2,
+      "level": "hard"
+    },
+    {
+      "id": 8,
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "genre": "Historical Fiction",
+      "year": 2005,
+      "rating": 4.4,
+      "level": "medium"
+    },
+    {
+      "id": 9,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "year": 2008,
+      "rating": 4.3,
+      "level": "medium"
+    },
+    {
+      "id": 10,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "year": 1851,
+      "rating": 4.0,
+      "level": "beginner"
+    },
+    {
+      "id": 11,
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "genre": "Classic",
+      "year": 1868,
+      "rating": 4.6,
+      "level": "hard"
+    },
+    {
+      "id": 12,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian",
+      "year": 1932,
+      "rating": 4.7,
+      "level": "medium"
+    },
+    {
+      "id": 13,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1954,
+      "rating": 4.9,
+      "level": "beginner"
+    },
+    {
+      "id": 14,
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "genre": "Satire",
+      "year": 1961,
+      "rating": 4.3,
+      "level": "hard"
+    },
+    {
+      "id": 15,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "genre": "Romance",
+      "year": 1847,
+      "rating": 4.7,
+      "level": "medium"
+    },
+    {
+      "id": 16,
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "genre": "Fantasy",
+      "year": 1950,
+      "rating": 4.8,
+      "level": "hard"
+    }
+  ]
+  
+  
